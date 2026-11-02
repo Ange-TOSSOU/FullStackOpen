@@ -29,6 +29,9 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Single page app diagram][ex0_5]
 - [New note in Single page app diagram][ex0_6]
 
+### Part 1 - Introduction to React
+- [Course Information][ex1_1-2]
+
 
 [full_stack_open_material]: https://fullstackopen.com/
 
@@ -38,3 +41,5 @@ I created this repository to save all my solutions for those problems. Feel free
 [ex0_4]: ./part0/new_note_diagram/
 [ex0_5]: ./part0/spa_diagram/
 [ex0_6]: ./part0/new_note_spa_diagram/
+
+[ex1_1-2]: ./part1/course_information/
